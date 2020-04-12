@@ -1,2 +1,1 @@
-# privacy_policy
-privacy
+1
